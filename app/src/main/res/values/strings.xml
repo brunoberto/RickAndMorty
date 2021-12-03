@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="til_name">Character Name</string>
+    <string name="til_status">Alive</string>
+</resources>
